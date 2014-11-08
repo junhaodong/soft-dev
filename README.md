@@ -12,12 +12,12 @@ Period 5
 
 ###Main Projects
 
-####< api project >
+####Instagram Foods
 Junhao Dong, Fawn Wong
 
 < description >
 
-< https clone link >
+https://github.com/junhaodong/instagram-foods.git
 
 ####Blog Engine
 Junhao Dong, Jenny Baran, Eric Wong, Elia Portnoy

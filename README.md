@@ -27,7 +27,7 @@ Stores a single blog using SQLite3 where people can create and comment on posts.
 https://github.com/junhaodong/blog-engine.git
 
 ####Screen Scraping
-Junhao Dong, Miranda Chaiken, ~~Andrew Sikowitz~~, ~~Nathaniel Brassell~~
+Junhao Dong, Miranda Chaiken
 
 Gives an answer to simple 'where', 'when', and 'who' queries by searching for regex in data. The data is generated from using Beautiful Soup and parsing HTML from a google search.
 

@@ -12,12 +12,12 @@ Period 5
 
 ###Main Projects
 
-####Instagram Foods
+####Food Finder
 Junhao Dong, Fawn Wong
 
 < description >
 
-https://github.com/junhaodong/instagram-foods.git
+https://github.com/junhaodong/food-finder.git
 
 ####Blog Engine
 Junhao Dong, Jenny Baran, Eric Wong, Elia Portnoy

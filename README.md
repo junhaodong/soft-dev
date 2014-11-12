@@ -15,7 +15,7 @@ Period 5
 ####Food Finder
 Junhao Dong, Fawn Wong
 
-< description >
+Basic use of Tumblr and Instagram APIs to search for images by tag.
 
 https://github.com/junhaodong/food-finder.git
 

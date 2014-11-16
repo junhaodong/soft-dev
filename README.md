@@ -38,7 +38,7 @@ https://github.com/NathanielBrassell/Screen_Scraping.git
 
 - [login](https://github.com/jybaran/mongo-lassi)
   - Junhao Dong, Jenny Baran
-    - Account manager that uses MongoDB to store data. Uses Flask sessions and message flashing to keep track of log-in status and display alerts or errors.
+    - Account manager that uses MongoDB to store data. Uses Flask sessions to keep track of log-in status, message flashing to display alerts and errors, and a decorator for authorizing an attempt to log in.
     
 - [regexp](https://github.com/stuycs-softdev/submissions/tree/master/5/regexp/ericwong_junhao)
   - Junhao Dong, Eric Wong

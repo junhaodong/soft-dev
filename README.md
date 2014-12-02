@@ -11,6 +11,7 @@ Period 5
 
 
 ###Main Projects
+------------
 
 ####Food Finder
 Junhao Dong, Fawn Wong
@@ -34,7 +35,12 @@ Gives an answer to simple 'where', 'when', and 'who' queries by searching for re
 https://github.com/NathanielBrassell/Screen_Scraping.git
 
 
-###Mini Projects
+###Mini Projects/Assignments
+------------
+
+- [todo](https://github.com/stuycs-softdev/submissions/tree/master/5/todo/junhao_dong)
+  - Junhao Dong
+    - Basic interactive to-do list that uses JavaScript on-click event listeners to move list items from "To Do" to "Done" or delete them from "Done"
 
 - [login](https://github.com/jybaran/mongo-lassi)
   - Junhao Dong, Jenny Baran

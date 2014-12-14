@@ -38,6 +38,10 @@ https://github.com/NathanielBrassell/Screen_Scraping.git
 ###Mini Projects/Assignments
 ------------
 
+- [find-thluffy](https://github.com/stuycs-softdev/submissions/tree/master/5/invisiblethluffy/junhao_elvin)
+  - Junhao Dong, Elvin Shoyfer
+    - Clone of [findtheinvisiblecow](findtheinvisiblecow.com) that increases audio volume the closer the cursor is to the invisible Thluffy. Thluffy reveals himself when clicked on.
+
 - [todo](https://github.com/stuycs-softdev/submissions/tree/master/5/todo/junhao_dong)
   - Junhao Dong
     - Basic interactive to-do list that uses JavaScript on-click event listeners to move list items from "To Do" to "Done" or delete them from "Done"

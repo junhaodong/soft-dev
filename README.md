@@ -10,6 +10,13 @@ Projects are in order of most recent to least recent.
 Period 5
 
 
+###Final Project
+Junhao Dong, Chesley Tan, Eric Wong, Elvin Shoyfer
+
+<description>
+
+https://github.com/ChesleyTan/gradebook.git
+
 ###Main Projects
 ------------
 

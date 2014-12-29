@@ -43,23 +43,23 @@ https://github.com/NathanielBrassell/Screen_Scraping.git
 ###Mini Projects/Assignments
 ------------
 
-- [find-thluffy](https://github.com/stuycs-softdev/submissions/tree/master/5/invisiblethluffy/junhao_elvin)
-  - Junhao Dong, Elvin Shoyfer
-    - Clone of [findtheinvisiblecow](findtheinvisiblecow.com) that increases audio volume the closer the cursor is to the invisible Thluffy. Thluffy reveals himself when clicked on.
+- [find-thluffy](https://github.com/junhaodong/soft-dev/tree/master/find-thluffy)
+	- Junhao Dong, Elvin Shoyfer
+		- Clone of [findtheinvisiblecow](findtheinvisiblecow.com) that increases audio volume the closer the cursor is to the invisible Thluffy. Thluffy reveals himself when clicked on.
 
-- [todo](https://github.com/stuycs-softdev/submissions/tree/master/5/todo/junhao_dong)
-  - Junhao Dong
+- [todo](https://github.com/junhaodong/soft-dev/tree/master/todo)
+	- Junhao Dong
     - Basic interactive to-do list that uses JavaScript on-click event listeners to move list items from "To Do" to "Done" or delete them from "Done"
 
-- [login](https://github.com/jybaran/mongo-lassi)
+- [login](https://github.com/junhaodong/soft-dev/tree/master/login)
   - Junhao Dong, Jenny Baran
     - Account manager that uses MongoDB to store data. Uses Flask sessions to keep track of log-in status, message flashing to display alerts and errors, and a decorator for authorizing an attempt to log in.
     
-- [regexp](https://github.com/stuycs-softdev/submissions/tree/master/5/regexp/ericwong_junhao)
+- [regexp](https://github.com/junhaodong/soft-dev/tree/master/regexp)
   - Junhao Dong, Eric Wong
     - Intro to regular expressions. Uses regex to find names within text.
     
-- [intro-proj 1](https://github.com/stuycs-softdev/submissions/tree/master/5/intro-proj1/junhao_ericwong)
+- [intro-proj 1](https://github.com/junhaodong/soft-dev/tree/master/intro-proj-1)
   - Junhao Dong, Eric Wong
     - Intro to Flask rendering templates and forms.
 

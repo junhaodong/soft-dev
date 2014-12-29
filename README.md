@@ -1,7 +1,5 @@
 soft-dev
 =====
-Junhao Dong
-
 Work and projects from the Software Development (SoftDev) '14-'15 course.
 
 Projects are in order of most recent to least recent.
@@ -64,7 +62,6 @@ https://github.com/NathanielBrassell/Screen_Scraping.git
 - [intro-proj 1](https://github.com/stuycs-softdev/submissions/tree/master/5/intro-proj1/junhao_ericwong)
   - Junhao Dong, Eric Wong
     - Intro to Flask rendering templates and forms.
-
 
 
 ##Spring Semester

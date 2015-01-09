@@ -1,0 +1,26 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+    <link rel="stylesheet" type="text/css" href="{{ url_for( 'static', filename='css/bootstrap-theme.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='css/bootstrap.css') }}">
+	
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<title>Ask Away</title>
+</head>
+
+<body>
+	<br><br><br><br><br><br><br><br>
+	<div class="jumbotron container">
+	<center><h1>What is the question to which you seek answer (where when or who)?</h1><br>
+<div class="form_group">
+<form class="form_control" action= "\results">
+	<input class="form-control" type="text" name="question" placeholder="Your Query Here"><br>
+
+		<button form-action="/results"type="submit" class="btn btn-danger btn-lg">Search</button>
+	
+</form>
+</div></center>
+
+</div>
+
+</body> </html>

@@ -1,0 +1,12 @@
+[submodule "projects/food-finder"]
+	path = projects/food-finder
+	url = git@github.com:junhaodong/food-finder.git
+[submodule "projects/blog-engine"]
+	path = projects/blog-engine
+	url = git@github.com:junhaodong/blog-engine.git
+[submodule "projects/Screen_Scraping"]
+	path = projects/Screen_Scraping
+	url = git@github.com:NathanielBrassell/Screen_Scraping.git
+[submodule "projects/gradebook"]
+	path = projects/gradebook
+	url = git@github.com:ChesleyTan/gradebook.git

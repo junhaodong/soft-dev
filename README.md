@@ -11,7 +11,7 @@ Period 5
 ###Final Project
 Junhao Dong, Chesley Tan, Eric Wong, Elvin Shoyfer
 
-<description>
+< description to come >
 
 https://github.com/ChesleyTan/gradebook.git
 

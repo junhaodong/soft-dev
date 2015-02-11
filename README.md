@@ -43,15 +43,15 @@ https://github.com/NathanielBrassell/Screen_Scraping.git
 ###Mini Projects/Assignments
 ------------
 
-- [find-thluffy](https://github.com/junhaodong/soft-dev/tree/master/find-thluffy)
+- [find-thluffy](https://github.com/junhaodong/soft-dev/tree/master/assignments/find-thluffy)
 	- Junhao Dong, Elvin Shoyfer
 		- Clone of [findtheinvisiblecow](findtheinvisiblecow.com) that increases audio volume the closer the cursor is to the invisible Thluffy. Thluffy reveals himself when clicked on.
 
-- [todo](https://github.com/junhaodong/soft-dev/tree/master/todo)
+- [todo](https://github.com/junhaodong/soft-dev/tree/master/assignments/todo)
 	- Junhao Dong
     - Basic interactive to-do list that uses JavaScript on-click event listeners to move list items from "To Do" to "Done" or delete them from "Done"
 
-- [login](https://github.com/junhaodong/soft-dev/tree/master/login)
+- [login](https://github.com/junhaodong/soft-dev/tree/master/assignments/login)
   - Junhao Dong, Jenny Baran
     - Account manager that uses MongoDB to store data. Uses Flask sessions to keep track of log-in status, message flashing to display alerts and errors, and a decorator for authorizing an attempt to log in.
     
@@ -65,4 +65,12 @@ https://github.com/NathanielBrassell/Screen_Scraping.git
 
 
 ##Spring Semester
-_Check back later_
+Period 5
+
+
+###Mini Projects/Assignments
+------------
+
+- [rainfall](https://github.com/junhaodong/soft-dev/tree/master/assignments/rainfall)
+	- Junhao Dong, Brian Guo
+		- Intro to HTML5 canvas and canvas context (save, restore, draw, Bezier curves, fill).

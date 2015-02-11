@@ -11,7 +11,7 @@ Period 5
 ###Final Project
 Junhao Dong, Chesley Tan, Eric Wong, Elvin Shoyfer
 
-< description to come >
+A gradebook web application that doubles as a teacher's site for homework and handouts.
 
 https://github.com/ChesleyTan/gradebook.git
 

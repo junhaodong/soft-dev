@@ -1,13 +1,10 @@
 soft-dev
 =====
-Work and projects from the Software Development (SoftDev) '14-'15 course.
-
+Work and projects from the Software Development (SoftDev) '14-'15 course.  
+Period 5 for Fall & Spring.  
 Projects are in order of most recent to least recent.
 
 ##Fall Semester
-Period 5
-
-
 ###Final Project
 Junhao Dong, Chesley Tan, Eric Wong, Elvin Shoyfer
 
@@ -15,9 +12,9 @@ A gradebook web application that doubles as a teacher's site for homework and ha
 
 https://github.com/ChesleyTan/gradebook.git
 
+
 ###Main Projects
 ------------
-
 ####Food Finder
 Junhao Dong, Fawn Wong
 
@@ -64,10 +61,8 @@ https://github.com/NathanielBrassell/Screen_Scraping.git
     - Intro to Flask rendering templates and forms.
 
 
+
 ##Spring Semester
-Period 5
-
-
 ###Mini Projects/Assignments
 ------------
 

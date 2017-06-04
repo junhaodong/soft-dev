@@ -4,7 +4,7 @@ Work and projects from the Software Development (SoftDev) '14-'15 course.
 Period 5 for Fall & Spring.  
 Projects are in order of most to least recent
 
-##Final Project
+## Final Project
 Junhao Dong, Chesley Tan, Eric Wong, Elvin Shoyfer
 
 A gradebook web application that doubles as a teacher's site for homework and handouts.
@@ -12,23 +12,23 @@ A gradebook web application that doubles as a teacher's site for homework and ha
 https://github.com/ChesleyTan/gradebook.git
 
 
-##Main Projects
+## Main Projects
 ------------
-###Food Finder
+### Food Finder
 Junhao Dong, Fawn Wong
 
 Basic use of Tumblr and Instagram APIs to search for images by tag.
 
 https://github.com/junhaodong/food-finder.git
 
-###Blog Engine
+### Blog Engine
 Junhao Dong, Jenny Baran, Eric Wong, Elia Portnoy
 
 Stores a single blog using SQLite3 where people can create and comment on posts.
 
 https://github.com/junhaodong/blog-engine.git
 
-###Screen Scraping
+### Screen Scraping
 Junhao Dong, Miranda Chaiken
 
 Gives an answer to simple 'where', 'when', and 'who' queries by searching for regex in data. The data is generated from using Beautiful Soup and parsing HTML from a google search.
@@ -36,7 +36,7 @@ Gives an answer to simple 'where', 'when', and 'who' queries by searching for re
 https://github.com/NathanielBrassell/Screen_Scraping.git
 
 
-##Mini Projects/Assignments
+## Mini Projects/Assignments
 ------------
 - [backbone](https://github.com/junhaodong/soft-dev/tree/master/assignments/backbone)
   - Junhao Dong, Eric Kolbusz
